@@ -1,0 +1,54 @@
+# Cybersecurity-Portfolio
+> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
+
+
+ 
+## Professional Statements
+
+Hello! Thank you for coming here. This is my cybersecurity portfolio. I hope you enjoy.
+
+
+
+> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+* Programming for cybersecurity tasks
+* Frameworks and controls that inform security operations
+* SIEM tools for cybersecurity
+* Detecting and responding to incidents using an intrusion detection system
+* Performing packet capture and analysis
+
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+* Cybersecurity Analyst
+* Security Analyst
+* SOC Analyst
+* Information Security Analyst
+* IT Security Analyst
+* Cyber Defense Analyst
+
+### Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1]- Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2] - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3] - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4] - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5] - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6] - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7] - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8] - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+
+### Tools 
+Several tools that I used: 
+* Google Workspace (Drive, Docs, Sheets, Slides)
+* Markdown Language 
+* Tcpdump
+* Wireshark
+* Linux OS
+* SQL
+* Chronicle
+* Splunk
+* Suricata
+* Python 
+
+
